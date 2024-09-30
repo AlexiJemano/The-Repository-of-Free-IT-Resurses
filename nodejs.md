@@ -5,7 +5,6 @@
 **
 
  - [Node.js — Introduction to Node.js (nodejs.org)](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
- - [Note.js - W3Schools](https://www.w3schools.com/nodejs/default.asp)
  - [A Beginners Guide to JavaScript l Free Online Course l Alison](https://alison.com/course/a-beginners-guide-to-javascript?utm_source=bing&utm_medium=cpc&utm_campaign=530823755&utm_content=1358998875757130&utm_term=kwd-84938561447277:loc-122&msclkid=b303b71906d616ee0617d1e00203bee1)
  - [The definitive Node.js handbook – Learn Node for Beginners (freecodecamp.org)](https://www.freecodecamp.org/news/the-definitive-node-js-handbook-6912378afc6e/)
  - [Free Course: Introduction to Node.js from Linux Foundation | Class Central](https://www.classcentral.com/course/node-js-the-linux-foundation-introduction-to-node-33535)
